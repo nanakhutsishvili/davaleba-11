@@ -1,0 +1,42 @@
+*  {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;}
+
+@font-face {
+    font-family: 'Work Sans';
+    src : url(./font/WorkSans-Regular.ttf )
+ }
+
+ @font-face {
+    font-family: 'Space Mono';
+    src : url(./font/SpaceMono-Regular.ttf )
+ }
+ 
+ body {
+    background-color: #2B2B2B;
+    width:100%;}
+
+.nav-menu > button {
+    width: 152px;
+    height: 60px;
+    background: #A259FF !important;
+    border-radius: 20px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 140%;
+    color: #FFFFFF !important;
+}
+
+.nav-menu > a {
+
+    text-decoration: none;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 140%;
+    color: #FFFFFF;
+}
