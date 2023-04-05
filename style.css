@@ -117,11 +117,81 @@ body {
 
 }
 
+.s1-header {
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.s1-img {
+    margin-top: 80px;
+}
+
+
+.s1-header>h1 {
+    font-family: 'Work Sans';
+    font-weight: 600;
+    font-size: 67px;
+    line-height: 110%;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+.s1-header>span {
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 160%;
+    color: #FFFFFF;
+
+}
+
+.s1-btn {
+    width: 224px;
+    height: 60px;
+    background: #A259FF;
+    border-radius: 20px;
+    border-color: transparent;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    gap: 12px;
+
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.s1-btn>span {
+    font-family: 'Work Sans';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 140%;
+    color: #FFFFFF;
+}
+
+
+.s1-sale>h2 {
+    font-family: 'Space Mono';
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 140%;
+    color: #FFFFFF;
+
+    margin-bottom: 0;
+}
+
+.s1-sale>span {
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 23.99px;
+    line-height: 160%;
+    color: #FFFFFF;
+}
 
 
 
-
-.col > a {
+.col>a {
 
     text-decoration: none;
     font-family: 'Work Sans';
@@ -144,6 +214,7 @@ body {
 
 .gif {
     width: 510px;
+    padding-right: 0px;
 
 }
 
@@ -161,14 +232,14 @@ body {
     font-size: 16px;
     line-height: 140%;
     color: #FFFFFF !important;
-} 
-
-
-
-
-button>img {
-    margin-right: 13.8px;
 }
+
+
+
+
+/* button>img { 
+    margin-right: 13.8px;
+} */
 
 .cont2 {
 
