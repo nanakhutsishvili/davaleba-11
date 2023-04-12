@@ -213,6 +213,82 @@ body {
     color: white;
 }
 
+.animals-box {
+    margin-top: 60px;
+}
+
+.animal-btn {
+    width: 100px;
+    height: 100px;
+    background: #A259FF;
+    border-radius: 20px;
+    font-family: 'Space Mono';
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 160%;
+}
+
+.animals-box>h3 {
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 140%;
+    color: #FFFFFF;
+    font-family: 'Work Sans';
+
+    margin-bottom: 0;
+
+}
+
+.fox-img {
+    gap: 12px;
+    margin-top: 10px;
+}
+
+.fox-img>span {
+    font-family: 'Work Sans';
+
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 140%;
+    color: #FFFFFF;
+}
+
+.top-creators {
+    padding-top: 80px;
+}
+
+.top-creators-header>h1 {
+    color: white;
+    margin-bottom: 10px;
+}
+
+.top-creators-header>span {
+    color: white;
+}
+
+.arts-card {
+    background: #3B3B3B;
+    border-radius: 20px;
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    padding-left: 0;
+    padding-right: 0;
+
+    margin-top: 60px;
+
+    gap: 20px;
+}
+
+.arts-card>h3 {
+    color: white;
+}
+
+.arts-card>span {
+    color: white;
+}
 
 .s1-header>h1 {
     font-family: 'Work Sans';
@@ -221,6 +297,20 @@ body {
     line-height: 110%;
     color: #FFFFFF;
     margin-bottom: 20px;
+}
+
+.topcreators-btn {
+    width: 247px;
+    height: 60px;
+    border: 2px solid #A259FF;
+    border-radius: 20px;
+    gap: 12px;
+    background-color: transparent;
+
+}
+
+.topcreators-btn>span {
+    color: white;
 }
 
 .s1-header>span {
