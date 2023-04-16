@@ -281,6 +281,9 @@ body {
 
     position: relative;
 
+    width: 240px;
+    height: 238px;
+
     /* gap: 20px; */
 }
 
@@ -434,6 +437,12 @@ body {
     padding: 0;
 
     position: relative;
+
+    width: 240px;
+    height: 316px;
+
+    margin-top: 30px;
+    margin-right: 30px;
 }
 
 .category-card-box>img {
